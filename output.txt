@@ -1,0 +1,45 @@
+a) who has worked for 7 consecutive days.
+CaMaXaWE, CeghaW
+Xee, XaCar
+Xee, XaCar
+Xee, XaCar
+De Xa Cerda, IgWaciE
+MraW, WiXXiaC Ha
+MraW, WiXXiaC Ha
+CEreira Jr, JEse
+DeXgadiXXE REdarMe, ChrisMiaW S
+HaCiXMEW, DeaWMe DevEW
+SaWchez, ArWAXfE
+Sparks, KeWWeMh
+Sparks, KeWWeMh
+
+ b) who have less than 10 hours of time between shifts but greater than 1 hour
+CaMaXaWE, CeghaW
+Xee, XaCar
+Xee, XaCar
+Xee, XaCar
+De Xa Cerda, IgWaciE
+MraW, WiXXiaC Ha
+MraW, WiXXiaC Ha
+CEreira Jr, JEse
+DeXgadiXXE REdarMe, ChrisMiaW S
+HaCiXMEW, DeaWMe DevEW
+SaWchez, ArWAXfE
+
+
+
+c) Who has worked for more than 14 hours in a single shift
+CaMaXaWE, CeghaW
+Xee, XaCar
+Xee, XaCar
+Xee, XaCar
+De Xa Cerda, IgWaciE
+MraW, WiXXiaC Ha
+MraW, WiXXiaC Ha
+CEreira Jr, JEse
+DeXgadiXXE REdarMe, ChrisMiaW S
+HaCiXMEW, DeaWMe DevEW
+SaWchez, ArWAXfE
+Sparks, KeWWeMh
+Sparks, KeWWeMh
+DeXgadiXXE REdarMe, ChrisMiaW S

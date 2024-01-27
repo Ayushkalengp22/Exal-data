@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "moment": "^2.30.1",
+    "underscore": "^1.13.6",
+    "xlsx": "^0.18.5"
+  },
+  "name": "exal-file",
+  "version": "1.0.0",
+  "main": "Xlsx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
